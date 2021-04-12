@@ -1,9 +1,6 @@
 # Natural Language Processing Project
 
-For this project I will be exploring publicly available data from LendingClub.com.  
-
-# Brief background:
-Lending Club connects people who need money (borrowers) with people who have money (investors). Investor want to invest in people who showed a profile of having a high probability of paying the loan back. 
+For this project I will classify Yelp Reviews into 1 star or 5 star categories.  
 
 # Columns    
 Column Name | Description
@@ -15,12 +12,6 @@ type | The type of the text.
 cool | How much cool is the business (1 through 5).
 useful | How much useful is the business (1 through 5).
 funny | How much funny is the business (1 through 5).
-
-# Problem:  
-Which borrower have high probability of paying back the loan in full?
-
-# Goal:
-Create a deascion tree model that will help predict whether or not the borrower will pay back the loan in full.
 
 # Summary of the solution:
 ## 1. Data overview:
